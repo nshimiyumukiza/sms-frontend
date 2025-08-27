@@ -1,9 +1,10 @@
 import React from 'react'
+import Sidbar from './components/Sidbar'
 
 const App = () => {
   return (
     <div>
-      <h1>sagaga</h1>
+    <Sidbar />
     </div>
   )
 }
